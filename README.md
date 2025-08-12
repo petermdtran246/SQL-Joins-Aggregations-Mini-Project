@@ -1,7 +1,6 @@
 # 📊 SQL Joins & Aggregations — Mini Project
 
 A compact SQL practice project demonstrating different types of joins, handling `NULL`, formatting outputs, and using aggregation functions like `AVG` with `CASE`.  
-Perfect for showcasing SQL skills to recruiters.
 
 ---
 
